@@ -5,7 +5,7 @@ const testCases = [
             language: 'cpp',
             script:
                 '#include<bits/stdc++.h>\n' +
-                'using namespace std;\n' +
+                'using namespace std;\n' + 
                 'int main(){\n' +
                 '    cout << "hello world";\n' +
                 'return 0;\n' +
